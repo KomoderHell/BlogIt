@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022816202225",
+    "project_id": "blogit-64707",
+    "storage_bucket": "blogit-64707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022816202225:android:d1658f3f6b81c82751e850",
+        "android_client_info": {
+          "package_name": "com.komodorhell.blogit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022816202225-u7tqu38g6piunnd5hr9u41lan84blbgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk9V5nWs45ZcSj3qM76OxWst591ZC7rsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022816202225-u7tqu38g6piunnd5hr9u41lan84blbgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
